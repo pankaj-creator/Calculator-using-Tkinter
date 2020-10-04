@@ -1,0 +1,5 @@
+# Used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+pygame>=1.0.0
+math>=3.0.0
