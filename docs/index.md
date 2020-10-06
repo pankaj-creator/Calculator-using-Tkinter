@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/pankaj-creator/Calculator-using-Tkinter/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Project developed by: [Pankaj Kumar Gond](https://github.com/pankaj-creator/Calculator-using-Tkinter/edit/gh-pages/docs/index.md) to maintain and preview the content for my Project browse my [repository](https://github.com/pankaj-creator/Calculator-using-Tkinter).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
